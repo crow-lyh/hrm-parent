@@ -15,7 +15,7 @@
         <!--service-->
         <dependency>
             <groupId>cn.itsource</groupId>
-            <artifactId>hrm-system-interface</artifactId>
+            <artifactId>hrm-course-interface</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
