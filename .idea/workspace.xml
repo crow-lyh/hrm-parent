@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="bd40343e-c7d1-4ee6-8c57-7c1049ce03a8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/resources/course-generator.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm-course-parent/hrm-course-service/src/main/java/cn/itsource/hrm/CourseServiceApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm-course-parent/hrm-course-service/src/main/resources/application.yml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/java/cn/itsource/hrm/generator/CodeGenerator.java" afterPath="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/java/cn/itsource/hrm/generator/CodeGenerator.java" />
-      <change beforePath="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/resources/system-generator.properties" afterPath="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/resources/system-generator.properties" />
-      <change beforePath="$PROJECT_DIR$/hrm-course-parent/hrm-course-service/hrm-course-service.iml" afterPath="$PROJECT_DIR$/hrm-course-parent/hrm-course-service/hrm-course-service.iml" />
-      <change beforePath="$PROJECT_DIR$/hrm-course-parent/hrm-course-service/pom.xml" afterPath="$PROJECT_DIR$/hrm-course-parent/hrm-course-service/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/java/cn/itsource/hrm/config/DocumentationConfig.java" afterPath="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/java/cn/itsource/hrm/config/DocumentationConfig.java" />
+      <change beforePath="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,8 +59,8 @@
       <file leaf-file-name="CourseTypeController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hrm-course-parent/hrm-course-service/src/main/java/cn/itsource/hrm/web/controller/CourseTypeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="313">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -107,13 +102,11 @@
         <option value="$PROJECT_DIR$/hrm-basic-parent/pom.xml" />
         <option value="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/java/cn/itsource/hrm/ZuulGatewayApplication.java" />
-        <option value="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/java/cn/itsource/hrm/config/DocumentationConfig.java" />
         <option value="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/java/cn/itsource/hrm/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/hrm-system-parent/hrm-system-service/src/main/java/cn/itsource/hrm/config/MybatisPlusConfig.java" />
         <option value="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/pom.xml" />
         <option value="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/resources/templates/query.java.vm" />
         <option value="$PROJECT_DIR$/hrm-system-parent/hrm-system-interface/src/main/java/cn/itsource/hrm/domain/Systemdictionary.java" />
-        <option value="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/hrm-system-parent/hrm-system-interface/pom.xml" />
         <option value="$PROJECT_DIR$/随便写" />
@@ -139,6 +132,8 @@
         <option value="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/resources/system-generator.properties" />
         <option value="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/java/cn/itsource/hrm/generator/CodeGenerator.java" />
         <option value="$PROJECT_DIR$/hrm-basic-parent/hrm-basic-generator/src/main/resources/course-generator.properties" />
+        <option value="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/java/cn/itsource/hrm/config/DocumentationConfig.java" />
       </list>
     </option>
   </component>
@@ -216,75 +211,64 @@
             <path>
               <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-supports-parent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-supports-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-zuul-gateway" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-supports-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-zuul-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-supports-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-zuul-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-supports-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-zuul-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-supports-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-zuul-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hrm" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-supports-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-zuul-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hrm" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hrm-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="hrm-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="hrm-course-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-supports-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hrm-zuul-gateway" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -508,7 +492,7 @@
       <workItem from="1577237125505" duration="202000" />
       <workItem from="1577237356615" duration="8420000" />
       <workItem from="1577275466903" duration="482000" />
-      <workItem from="1577322094503" duration="9125000" />
+      <workItem from="1577322094503" duration="9422000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1577275910647</created>
@@ -531,11 +515,18 @@
       <option name="project" value="LOCAL" />
       <updated>1577329680461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dd">
+      <created>1577331253411</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577331253411</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34612000" />
+    <option name="totallyTimeSpent" value="34909000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -658,20 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/java/cn/itsource/hrm/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -986,10 +963,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/java/cn/itsource/hrm/config/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm-supports-parent/hrm-zuul-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hrm-course-parent/hrm-course-service/src/main/java/cn/itsource/hrm/web/controller/CourseTypeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="313">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding />
         </state>
       </provider>

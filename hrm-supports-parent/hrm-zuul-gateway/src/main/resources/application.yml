@@ -19,6 +19,9 @@ zuul:
     system:
       path: /system/**
       serviceId: SYSTEM-SERVICE
+    system:
+          path: /course/**
+          serviceId: COURSE-SERVICE
 ribbon:
   eureka:
     enabled: true
