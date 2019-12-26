@@ -23,7 +23,7 @@ public class SwaggerConfig {
         return new ApiInfoBuilder()
                 .title("分布式人力资源管理系统")
                 .description("分布式人力资源管理系统接口文档说明")
-                .contact(new Contact("solargen", "", "lishugen@itsoruce.cn"))
+                .contact(new Contact("crow", "", "crow@itsoruce.cn"))
                 .version("1.0")
                 .build();
     }

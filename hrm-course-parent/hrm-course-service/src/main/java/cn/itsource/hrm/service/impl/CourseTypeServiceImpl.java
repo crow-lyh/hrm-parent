@@ -6,6 +6,8 @@ import cn.itsource.hrm.service.ICourseTypeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 /**
  * <p>
  * 课程目录 服务实现类
@@ -17,4 +19,10 @@ import org.springframework.stereotype.Service;
 @Service
 public class CourseTypeServiceImpl extends ServiceImpl<CourseTypeMapper, CourseType> implements ICourseTypeService {
 
+    @Override
+    public List<CourseType> loadTreeData() {
+
+
+        return null;
+    }
 }
