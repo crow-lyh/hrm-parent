@@ -10,6 +10,7 @@
         <module name="hrm-basic-generator" />
         <module name="hrm-basic-util" />
         <module name="hrm-config-server" />
+        <module name="hrm-course-parent" />
         <module name="hrm-eureka-server" />
         <module name="hrm-system-interface" />
         <module name="hrm-system-service" />
@@ -21,6 +22,7 @@
       <module name="hrm-basic-parent" target="1.8" />
       <module name="hrm-basic-util" target="1.8" />
       <module name="hrm-config-server" target="1.8" />
+      <module name="hrm-course-parent" target="1.8" />
       <module name="hrm-eureka-server" target="1.8" />
       <module name="hrm-parent" target="1.8" />
       <module name="hrm-supports-parent" target="1.8" />
